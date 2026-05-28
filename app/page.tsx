@@ -19,10 +19,10 @@ export default function HomePage() {
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
               Your Personal AI Agent
-              <span className="block" style={{ color: '#1F4E79' }}>for Benefits Education</span>
+              <span className="block" style={{ color: '#1F4E79' }}>for Finding Giveaways</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Meet your AI benefits advisor. Ask anything about your benefits — coverage, costs, enrollment, eligibility — and get honest, unbiased answers instantly. No salespeople. No pressure. Just clarity.
+              Meet your AI giveaway advisor. Ask anything about sweepstakes, contests, free samples, and giveaway opportunities — and get honest, unbiased answers instantly. No spam. No pressure. Just wins.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link
@@ -50,7 +50,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>What Our AI Agent Does For You</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
-              A knowledgeable benefits expert available 24/7 — with zero agenda
+              A knowledgeable giveaway expert available 24/7 — with zero agenda
             </p>
           </div>
 
@@ -62,10 +62,10 @@ export default function HomePage() {
                 </div>
               </div>
               <h3 className="text-xl font-semibold text-center mb-3" style={{ color: '#1F2937' }}>
-                Answers Your Benefits Questions
+                Finds Giveaways For You
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Ask our AI anything — "What does my health plan cover?", "Am I eligible for this benefit?", "How do I enroll?" — and get clear, honest answers in seconds.
+                Ask our AI anything — "What giveaways can I enter right now?", "How do I find free samples?", "What sweepstakes are easiest to win?" — and get clear, honest answers in seconds.
               </p>
             </div>
 
@@ -76,10 +76,10 @@ export default function HomePage() {
                 </div>
               </div>
               <h3 className="text-xl font-semibold text-center mb-3" style={{ color: '#1F2937' }}>
-                Educates You Step by Step
+                Teaches You How to Win
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Our AI walks you through every aspect of your benefits — from understanding your coverage options to navigating enrollment periods — so you're never in the dark.
+                Our AI walks you through giveaway strategies — from finding the best contests to maximizing your entries and avoiding scams — so you can win more and waste less time.
               </p>
             </div>
 
@@ -90,10 +90,10 @@ export default function HomePage() {
                 </div>
               </div>
               <h3 className="text-xl font-semibold text-center mb-3" style={{ color: '#1F2937' }}>
-                Helps You Maximize Your Benefits
+                Keeps You Safe from Scams
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Our AI identifies benefits you may be missing, explains your options clearly, and tells you exactly what steps to take to get the most out of your coverage.
+                Our AI helps you identify legitimate giveaways vs. scams, explains red flags to watch for, and guides you toward trusted sources so you never get taken advantage of.
               </p>
             </div>
           </div>
@@ -104,9 +104,9 @@ export default function HomePage() {
       <section style={{ backgroundColor: '#F5F7FA' }} className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>How the AI Agent Helps You</h2>
+            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>How the AI Agent Helps You Win</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
-              Three simple steps to understanding and maximizing your benefits
+              Three simple steps to finding and winning more giveaways
             </p>
           </div>
 
@@ -115,9 +115,9 @@ export default function HomePage() {
               <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold text-white" style={{ backgroundColor: '#1F4E79' }}>
                 1
               </div>
-              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Tell the AI About Your Situation</h3>
+              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Tell the AI What You're Looking For</h3>
               <p style={{ color: '#6B7280' }}>
-                Share your benefits questions, coverage needs, and goals. The AI instantly tailors its guidance to your specific situation — no generic advice.
+                Share what types of giveaways interest you — cash prizes, products, experiences, free samples. The AI instantly tailors its guidance to your preferences.
               </p>
             </div>
 
@@ -125,9 +125,9 @@ export default function HomePage() {
               <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold text-white" style={{ backgroundColor: '#2F6FA3' }}>
                 2
               </div>
-              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Get Your Personalized Education</h3>
+              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Get Your Personalized Giveaway Guide</h3>
               <p style={{ color: '#6B7280' }}>
-                The AI explains your benefits options, eligibility requirements, enrollment steps, and what to expect — all in plain language you can actually understand.
+                The AI explains where to find the best giveaways, how to enter efficiently, what strategies improve your odds, and how to spot scams — all in plain language.
               </p>
             </div>
 
@@ -135,9 +135,9 @@ export default function HomePage() {
               <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold text-white" style={{ backgroundColor: '#5E8F5E' }}>
                 3
               </div>
-              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Make a Confident Decision</h3>
+              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Start Entering and Winning</h3>
               <p style={{ color: '#6B7280' }}>
-                Armed with unbiased knowledge, you can confidently navigate your benefits, enroll in the right plans, and make the most of what's available to you.
+                Armed with the right knowledge, you can confidently enter legitimate giveaways, maximize your chances, and start winning prizes and free products.
               </p>
             </div>
           </div>
@@ -148,7 +148,7 @@ export default function HomePage() {
       <section style={{ backgroundColor: '#FFFFFF' }} className="py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Ask the AI Anything About Your Benefits</h2>
+            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Ask the AI Anything About Giveaways</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
               Here's a taste of what our AI agent can help you with
             </p>
@@ -156,11 +156,11 @@ export default function HomePage() {
 
           <div className="space-y-4">
             {[
-              { q: "Do I have any unclaimed benefits I don't know about?", a: "Many people are sitting on unclaimed benefits — from government programs, employer plans, or state assistance — without even knowing it. I can help you identify what you may be entitled to based on your age, income, location, and situation..." },
-              { q: "Are there grocery benefits I can get help with?", a: "Yes! There are several programs that can help cover grocery costs, including SNAP (food stamps), WIC for women and children, and various state-level food assistance programs. I can walk you through eligibility requirements and how to apply..." },
-              { q: "What grants are available that I might qualify for?", a: "There are thousands of federal, state, and local grants available for housing, education, small business, healthcare, and more. I can help you identify grants you may qualify for based on your specific circumstances and guide you through the application process..." },
-              { q: "What senior benefits am I entitled to?", a: "Seniors may be eligible for a wide range of benefits including Medicare, Social Security, Medicaid, SNAP, utility assistance, property tax relief, and more. I can help you understand exactly what you qualify for and how to access these programs..." },
-              { q: "What financial benefits or assistance programs can I access?", a: "There are many financial assistance programs available — from utility bill help (LIHEAP) to housing assistance, Medicaid, Social Security Disability, and more. Tell me about your situation and I'll identify the financial benefits you may be missing..." },
+              { q: "Where can I find legitimate giveaways to enter right now?", a: "There are many trusted sources for legitimate giveaways — from brand social media pages and dedicated sweepstakes sites like Sweepstakes Advantage and Online-Sweepstakes.com, to Reddit communities like r/giveaways and r/sweepstakes. I can help you find the best current opportunities based on what you're looking for..." },
+              { q: "How do I know if a giveaway is a scam?", a: "Legitimate giveaways never ask you to pay to enter, never require your Social Security number, and always have clear official rules. Red flags include requests for payment, vague sponsor information, and prizes that seem too good to be true. I can walk you through a checklist to verify any giveaway before you enter..." },
+              { q: "What types of giveaways have the best odds of winning?", a: "Local giveaways, instant win games, and contests requiring skill (like photo or essay contests) typically have much better odds than national sweepstakes. I can help you identify high-odds opportunities and build a strategy that maximizes your chances of winning..." },
+              { q: "How can I get free product samples?", a: "Free samples are available from brand websites, sampling programs like PINCHme and SampleSource, retailer programs, and social media brand pages. I can guide you through the best ways to sign up for legitimate sample programs and what to expect..." },
+              { q: "How do I organize my giveaway entries to win more?", a: "Staying organized is key to winning more giveaways. I can help you set up a simple tracking system, identify daily entry giveaways worth bookmarking, and create a routine that lets you enter consistently without it taking over your day..." },
             ].map((item, i) => (
               <div key={i} className="rounded-xl overflow-hidden border" style={{ borderColor: '#E5E7EB' }}>
                 <div className="p-4 flex items-start gap-3" style={{ backgroundColor: '#F5F7FA' }}>
@@ -184,10 +184,10 @@ export default function HomePage() {
             <div className="px-6 py-16 sm:px-12 sm:py-20 text-center">
               <Bot className="w-16 h-16 text-white mx-auto mb-6" />
               <h2 className="text-4xl font-bold text-white mb-6">
-                Your AI Benefits Advisor is Ready
+                Your AI Giveaway Advisor is Ready
               </h2>
               <p className="text-xl mb-8 max-w-2xl mx-auto" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                Get instant, unbiased answers to all your benefits questions. No sales calls. No pressure. Just an AI that's 100% on your side.
+                Get instant, unbiased answers to all your giveaway questions. No spam. No pressure. Just an AI that's 100% on your side.
               </p>
               <Link
                 href="/signup"

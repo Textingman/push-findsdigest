@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Finds Digest - Your AI Agent for Benefits Education",
-  description: "Meet your personal AI benefits advisor. Get instant, unbiased answers to all your benefits questions — coverage, costs, enrollment, and more. No salespeople. No pressure.",
+  title: "The Finds Digest - Your AI Agent for Giveaways & Free Samples",
+  description: "Meet your personal AI giveaway advisor. Discover legitimate sweepstakes, contests, and free sample opportunities. No spam. No scams. Just honest guidance to help you win more.",
 };
 
 export default function RootLayout({

@@ -74,7 +74,10 @@ export default function Footer() {
               support@thefindsdigest.com
             </p>
             <p className="mt-2" style={{ color: '#FED7AA' }}>
-              United States
+              6600 N Lamar Blvd, Austin, TX 78752
+            </p>
+            <p className="mt-2" style={{ color: '#FED7AA' }}>
+              (512) 998-5886
             </p>
           </div>
         </div>

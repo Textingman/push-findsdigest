@@ -8,34 +8,32 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">The Finds Digest</h3>
             <p style={{ color: '#FED7AA' }}>
-              Discover the best deals and savings opportunities every day.
+              Your AI advisor for product finds, deals, and shopping tips.
             </p>
             {/* Social Icons */}
             <div className="flex items-center gap-4 mt-4">
-              {/* LinkedIn */}
               <a
-                href="https://linkedin.com"
+                href="https://facebook.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="LinkedIn"
+                aria-label="Facebook"
                 className="hover:opacity-80 transition-opacity"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#FED7AA">
-                  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
-                  <rect x="2" y="9" width="4" height="12" />
-                  <circle cx="4" cy="4" r="2" />
+                  <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
                 </svg>
               </a>
-              {/* Google */}
               <a
-                href="https://google.com"
+                href="https://instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="Google"
+                aria-label="Instagram"
                 className="hover:opacity-80 transition-opacity"
               >
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#FED7AA">
-                  <path d="M21.35 11.1H12.18V13.83H18.69C18.36 17.64 15.19 19.27 12.19 19.27C8.36 19.27 5 16.25 5 12C5 7.9 8.2 4.73 12.2 4.73C15.29 4.73 17.1 6.7 17.1 6.7L19 4.72C19 4.72 16.56 2 12.1 2C6.42 2 2.03 6.8 2.03 12C2.03 17.05 6.16 22 12.25 22C17.6 22 21.5 18.33 21.5 12.91C21.5 11.76 21.35 11.1 21.35 11.1Z" />
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FED7AA" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+                  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
                 </svg>
               </a>
             </div>
@@ -68,11 +66,6 @@ export default function Footer() {
                   Terms of Service
                 </Link>
               </li>
-              <li>
-                <Link href="/contact" style={{ color: '#FED7AA' }} className="hover:text-white">
-                  Contact Us
-                </Link>
-              </li>
             </ul>
           </div>
           <div>
@@ -81,14 +74,11 @@ export default function Footer() {
               support@thefindsdigest.com
             </p>
             <p className="mt-2" style={{ color: '#FED7AA' }}>
-              6600 N Lamar Blvd, Austin, TX 78752
-            </p>
-            <p className="mt-2" style={{ color: '#FED7AA' }}>
-              (512) 998-5886
+              United States
             </p>
           </div>
         </div>
-        <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #EA580C', color: '#FED7AA' }}>
+        <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #9A3412', color: '#FED7AA' }}>
           <p>&copy; 2026 The Finds Digest. All rights reserved.</p>
         </div>
       </div>

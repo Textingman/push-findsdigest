@@ -19,10 +19,10 @@ export default function HomePage() {
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
               Your Personal AI Agent
-              <span className="block" style={{ color: '#EA580C' }}>for Finding Giveaways</span>
+              <span className="block" style={{ color: '#EA580C' }}>for Product Finds & Savings</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Meet your AI giveaway advisor. Ask anything about sweepstakes, contests, free samples, and giveaway opportunities — and get honest, unbiased answers instantly. No spam. No pressure. Just wins.
+              Meet your AI shopping advisor. Ask anything about deals, discounts, product recommendations, and money-saving opportunities — and get honest, unbiased answers instantly. No spam. No pressure. Just savings.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link
@@ -50,7 +50,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>What Our AI Agent Does For You</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
-              A knowledgeable giveaway expert available 24/7 — with zero agenda
+              A knowledgeable shopping expert available 24/7 — with zero agenda
             </p>
           </div>
 
@@ -62,10 +62,10 @@ export default function HomePage() {
                 </div>
               </div>
               <h3 className="text-xl font-semibold text-center mb-3" style={{ color: '#1F2937' }}>
-                Finds Giveaways For You
+                Finds Deals & Products For You
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Ask our AI anything — "What giveaways can I enter right now?", "How do I find free samples?", "What sweepstakes are easiest to win?" — and get clear, honest answers in seconds.
+                Ask our AI anything — "What are the best deals right now?", "How do I find the best price on this?", "What cashback programs should I use?" — and get clear, honest answers in seconds.
               </p>
             </div>
 
@@ -76,10 +76,10 @@ export default function HomePage() {
                 </div>
               </div>
               <h3 className="text-xl font-semibold text-center mb-3" style={{ color: '#1F2937' }}>
-                Teaches You How to Win
+                Teaches You How to Save More
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Our AI walks you through giveaway strategies — from finding the best contests to maximizing your entries and avoiding scams — so you can win more and waste less time.
+                Our AI walks you through smart shopping strategies — from stacking coupons and cashback apps to finding the best loyalty program perks — so you can save more and spend less.
               </p>
             </div>
 
@@ -93,7 +93,7 @@ export default function HomePage() {
                 Keeps You Safe from Scams
               </h3>
               <p className="text-center" style={{ color: '#6B7280' }}>
-                Our AI helps you identify legitimate giveaways vs. scams, explains red flags to watch for, and guides you toward trusted sources so you never get taken advantage of.
+                Our AI helps you identify legitimate deals vs. scams, explains red flags to watch for, and guides you toward trusted sources so you never get taken advantage of.
               </p>
             </div>
           </div>
@@ -104,9 +104,9 @@ export default function HomePage() {
       <section style={{ backgroundColor: '#FFF7ED' }} className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>How the AI Agent Helps You Win</h2>
+            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>How the AI Agent Helps You Save</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
-              Three simple steps to finding and winning more giveaways
+              Three simple steps to finding the best deals and keeping more of your money
             </p>
           </div>
 
@@ -117,7 +117,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Tell the AI What You're Looking For</h3>
               <p style={{ color: '#6B7280' }}>
-                Share what types of giveaways interest you — cash prizes, products, experiences, free samples. The AI instantly tailors its guidance to your preferences.
+                Share what types of savings interest you — grocery deals, travel discounts, cashback offers, product recommendations. The AI instantly tailors its guidance to your preferences.
               </p>
             </div>
 
@@ -125,9 +125,9 @@ export default function HomePage() {
               <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold text-white" style={{ backgroundColor: '#C2410C' }}>
                 2
               </div>
-              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Get Your Personalized Giveaway Guide</h3>
+              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Get Your Personalized Savings Guide</h3>
               <p style={{ color: '#6B7280' }}>
-                The AI explains where to find the best giveaways, how to enter efficiently, what strategies improve your odds, and how to spot scams — all in plain language.
+                The AI explains where to find the best deals, how to stack discounts efficiently, which cashback programs offer the most value, and how to spot misleading offers — all in plain language.
               </p>
             </div>
 
@@ -135,9 +135,9 @@ export default function HomePage() {
               <div className="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold text-white" style={{ backgroundColor: '#9A3412' }}>
                 3
               </div>
-              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Start Entering and Winning</h3>
+              <h3 className="text-xl font-bold mb-3" style={{ color: '#1F2937' }}>Start Saving Today</h3>
               <p style={{ color: '#6B7280' }}>
-                Armed with the right knowledge, you can confidently enter legitimate giveaways, maximize your chances, and start winning prizes and free products.
+                Armed with the right knowledge, you can confidently find legitimate deals, maximize your savings, and keep more money in your pocket every day.
               </p>
             </div>
           </div>
@@ -148,7 +148,7 @@ export default function HomePage() {
       <section style={{ backgroundColor: '#FFFFFF' }} className="py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Ask the AI Anything About Giveaways</h2>
+            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Ask the AI Anything About Deals & Savings</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>
               Here's a taste of what our AI agent can help you with
             </p>
@@ -156,11 +156,11 @@ export default function HomePage() {
 
           <div className="space-y-4">
             {[
-              { q: "Where can I find legitimate giveaways to enter right now?", a: "There are many trusted sources for legitimate giveaways — from brand social media pages and dedicated sweepstakes sites like Sweepstakes Advantage and Online-Sweepstakes.com, to Reddit communities like r/giveaways and r/sweepstakes. I can help you find the best current opportunities based on what you're looking for..." },
-              { q: "How do I know if a giveaway is a scam?", a: "Legitimate giveaways never ask you to pay to enter, never require your Social Security number, and always have clear official rules. Red flags include requests for payment, vague sponsor information, and prizes that seem too good to be true. I can walk you through a checklist to verify any giveaway before you enter..." },
-              { q: "What types of giveaways have the best odds of winning?", a: "Local giveaways, instant win games, and contests requiring skill (like photo or essay contests) typically have much better odds than national sweepstakes. I can help you identify high-odds opportunities and build a strategy that maximizes your chances of winning..." },
-              { q: "How can I get free product samples?", a: "Free samples are available from brand websites, sampling programs like PINCHme and SampleSource, retailer programs, and social media brand pages. I can guide you through the best ways to sign up for legitimate sample programs and what to expect..." },
-              { q: "How do I organize my giveaway entries to win more?", a: "Staying organized is key to winning more giveaways. I can help you set up a simple tracking system, identify daily entry giveaways worth bookmarking, and create a routine that lets you enter consistently without it taking over your day..." },
+              { q: "Where can I find the best deals and discounts right now?", a: "There are many trusted sources for legitimate deals — from retailer websites and browser extensions like Honey and Rakuten, to deal aggregator sites like Slickdeals and RetailMeNot, to brand loyalty programs and email newsletters. I can help you find the best current opportunities based on what you're shopping for..." },
+              { q: "How do I know if a deal or offer is legitimate?", a: "Legitimate deals come from verified retailers, have clear terms and expiration dates, and don't require unusual personal information. Red flags include requests for payment to access a discount, vague offer details, and deals that seem too good to be true. I can walk you through a checklist to verify any offer before you use it..." },
+              { q: "What cashback apps and programs give the best returns?", a: "Top cashback programs include Rakuten, Ibotta, Fetch Rewards, and credit card rewards programs. The best option depends on where you shop most. I can help you identify which programs align with your spending habits and how to stack them for maximum savings..." },
+              { q: "How can I save more on groceries each week?", a: "Grocery savings come from combining store loyalty cards, digital coupons, cashback apps like Ibotta, and shopping sales cycles. I can guide you through a simple system to consistently cut your grocery bill without spending hours clipping coupons..." },
+              { q: "How do I organize my savings strategy to get the most out of it?", a: "Staying organized is key to maximizing savings. I can help you set up a simple system to track your best cashback apps, identify recurring deals worth bookmarking, and build a routine that saves you money consistently without taking over your day..." },
             ].map((item, i) => (
               <div key={i} className="rounded-xl overflow-hidden border" style={{ borderColor: '#FED7AA' }}>
                 <div className="p-4 flex items-start gap-3" style={{ backgroundColor: '#FFF7ED' }}>
@@ -184,10 +184,10 @@ export default function HomePage() {
             <div className="px-6 py-16 sm:px-12 sm:py-20 text-center">
               <Bot className="w-16 h-16 text-white mx-auto mb-6" />
               <h2 className="text-4xl font-bold text-white mb-6">
-                Your AI Giveaway Advisor is Ready
+                Your AI Savings Advisor is Ready
               </h2>
               <p className="text-xl mb-8 max-w-2xl mx-auto" style={{ color: 'rgba(255,255,255,0.9)' }}>
-                Get instant, unbiased answers to all your giveaway questions. No spam. No pressure. Just an AI that's 100% on your side.
+                Get instant, unbiased answers to all your savings questions. No spam. No pressure. Just an AI that's 100% on your side.
               </p>
               <Link
                 href="/signup"
